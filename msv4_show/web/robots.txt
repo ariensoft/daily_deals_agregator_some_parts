@@ -1,0 +1,3 @@
+Sitemap:http://www.meslevy.cz/sitemap.xml
+User-agent: *
+Disallow:
